@@ -1,0 +1,17 @@
+C:\2012\WebAPISelfHost\bin\Debug\WebAPISelfHost.pdb
+C:\2012\WebAPISelfHost\obj\Debug\WebAPISelfHost.csprojResolveAssemblyReference.cache
+C:\2012\WebAPISelfHost\obj\Debug\WebAPISelfHost.pdb
+C:\2012\WebAPISelfHost\bin\Debug\WebAPISelfHost.exe
+C:\2012\WebAPISelfHost\obj\Debug\WebAPISelfHost.exe
+C:\2012\WebAPISelfHost\bin\Debug\Newtonsoft.Json.dll
+C:\2012\WebAPISelfHost\bin\Debug\System.Net.Http.dll
+C:\2012\WebAPISelfHost\bin\Debug\System.Net.Http.Formatting.dll
+C:\2012\WebAPISelfHost\bin\Debug\System.Net.Http.WebRequest.dll
+C:\2012\WebAPISelfHost\bin\Debug\System.Web.Http.dll
+C:\2012\WebAPISelfHost\bin\Debug\System.Web.Http.SelfHost.dll
+C:\2012\WebAPISelfHost\bin\Debug\Newtonsoft.Json.xml
+C:\2012\WebAPISelfHost\bin\Debug\System.Net.Http.xml
+C:\2012\WebAPISelfHost\bin\Debug\System.Net.Http.Formatting.xml
+C:\2012\WebAPISelfHost\bin\Debug\System.Net.Http.WebRequest.xml
+C:\2012\WebAPISelfHost\bin\Debug\System.Web.Http.xml
+C:\2012\WebAPISelfHost\bin\Debug\System.Web.Http.SelfHost.xml
